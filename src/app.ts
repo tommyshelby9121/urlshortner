@@ -2,6 +2,7 @@ import { config } from "dotenv";
 config();
 import express, { Application } from "express";
 import logger from "morgan";
+import { verifyNodeVersion } from "./util/verifyNodeVersion";
 
 // Init Express
 const app:Application = express();
@@ -16,6 +17,9 @@ app.use(express.urlencoded({
     extended: false,
 }));
 app.use(express.json());
+
+// Verify Node Version
+verifyNodeVersion();
 
 // Define Port
 const port:string|number = process.env.PORT || 3000;
