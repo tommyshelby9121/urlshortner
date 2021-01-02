@@ -28,6 +28,10 @@ app.use(express.json());
 // Verify Node Version
 verifyNodeVersion();
 
+// Routes
+import url from "./routes/url";
+app.use("/api/url", url);
+
 // Define Port
 const port:string|number = process.env.PORT || 3000;
 
