@@ -1,0 +1,24 @@
+{
+  "name": "@urlshortner/urlshortner",
+  "version": "2.0.0",
+  "description": "Make your own custom urls",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyshelby9121/urlshortner.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "urlshortner"
+  ],
+  "author": "Sycrixx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tommyshelby9121/urlshortner/issues"
+  },
+  "homepage": "https://github.com/tommyshelby9121/urlshortner#readme"
+}
