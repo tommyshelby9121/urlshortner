@@ -40,7 +40,9 @@ app.use(methodOverride((req:Request) => {
 verifyNodeVersion();
 
 // Routes
+import index from "./routes/index";
 import url from "./routes/url";
+app.use("/", index);
 app.use("/api/url", url);
 
 // Define Port
