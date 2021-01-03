@@ -3,8 +3,10 @@
     <p align="center">Make your own custom short urls like bit.ly and goo.gl</p>
 </p>
 <p align="center">
+    <a href="https://github.com/tommyshelby9121/urlshortner/actions/"><img src="https://github.com/tommyshelby9121/urlshortner/workflows/Node.js%20CI/badge.svg?branch=master" alt="Node.js Integration"></a>
     <a href="https://www.codefactor.io/repository/github/tommyshelby9121/urlshortner"><img src="https://www.codefactor.io/repository/github/tommyshelby9121/urlshortner/badge" alt="CodeFactor" /></a>
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftommyshelby9121%2Furlshortner?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftommyshelby9121%2Furlshortner.svg?type=shield"/></a>
+    <a href="https://david-dm.org/tommyshelby9121/urlshortner"><img src="https://img.shields.io/david/tommyshelby9121/urlshortner" alt="Dependencies"></a>
 </p>
 <p align="center">
     <a href="#">View Demo</a>
