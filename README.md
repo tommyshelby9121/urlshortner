@@ -1,6 +1,6 @@
 <p align="center">
     <h2 align="center">urlshortner</h2>
-    <p align="center">Make your own custom short urls like `bit.ly` and `goo.gl`</p>
+    <p align="center">Make your own custom short urls like bit.ly and goo.gl</p>
 </p>
 <p align="center">
     <a href="https://www.codefactor.io/repository/github/tommyshelby9121/urlshortner"><img src="https://www.codefactor.io/repository/github/tommyshelby9121/urlshortner/badge" alt="CodeFactor" /></a>
