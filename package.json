@@ -27,7 +27,7 @@
   "homepage": "https://github.com/tommyshelby9121/urlshortner#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
     "localforage": "^1.9.0",
     "method-override": "^3.0.0",
